@@ -1,2 +1,4 @@
 em { color: green; }
-th { color: white; } th { background: orange; }
+th { color: white; background: orange; }
+table, th, td { border: 1px solid black; border-collapse: collapse; }
+
